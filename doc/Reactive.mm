@@ -1,6 +1,6 @@
 <map version="1.0.1">
 <!-- To view this file, download free mind mapping software FreeMind from http://freemind.sourceforge.net -->
-<node CREATED="1529325596132" ID="ID_727301211" MODIFIED="1529325599699" TEXT="Reactive">
+<node CREATED="1529325596132" ID="ID_727301211" MODIFIED="1530000736395" TEXT="Reactive">
 <node CREATED="1529325988489" ID="ID_1939133288" MODIFIED="1529325991053" POSITION="right" TEXT="Reactive Manifesto">
 <node CREATED="1529325994583" LINK="https://www.reactivemanifesto.org/" MODIFIED="1529325994583" TEXT="https://www.reactivemanifesto.org/"/>
 <node CREATED="1529326000697" ID="ID_1670226693" MODIFIED="1529326003501" TEXT="Responsive">
@@ -53,6 +53,16 @@
 <node CREATED="1529328189850" ID="ID_1700986215" MODIFIED="1529328190975" TEXT="Future"/>
 <node CREATED="1529328172044" ID="ID_1847669777" MODIFIED="1529328179895" TEXT="Runnable / Callable"/>
 </node>
+</node>
+<node CREATED="1530000566224" ID="ID_93411196" MODIFIED="1530000567692" POSITION="left" TEXT="Links">
+<node CREATED="1530000568263" ID="ID_1416289778" LINK="http://www.baeldung.com/reactor-core" MODIFIED="1530000568263" TEXT="baeldung.com &gt; Reactor-core"/>
+<node CREATED="1530000581144" LINK="http://www.baeldung.com/rx-java" MODIFIED="1530000581144" TEXT="baeldung.com &gt; Rx-java"/>
+<node CREATED="1530000588310" LINK="http://www.baeldung.com/rxjava-2-flowable" MODIFIED="1530000588310" TEXT="baeldung.com &gt; Rxjava-2-flowable"/>
+<node CREATED="1530000601615" LINK="http://www.baeldung.com/java-9-reactive-streams" MODIFIED="1530000601615" TEXT="baeldung.com &gt; Java-9-reactive-streams"/>
+<node CREATED="1530000608376" LINK="http://www.baeldung.com/vertx" MODIFIED="1530000608376" TEXT="baeldung.com &gt; Vertx"/>
+<node CREATED="1530000627247" LINK="http://www.baeldung.com/java-completablefuture" MODIFIED="1530000627247" TEXT="baeldung.com &gt; Java-completablefuture"/>
+<node CREATED="1530000658222" LINK="https://dzone.com/articles/spring-boot-reactive-tutorial" MODIFIED="1530000658222" TEXT="https://dzone.com/articles/spring-boot-reactive-tutorial"/>
+<node CREATED="1530000664367" LINK="https://medium.com/@hantsy/build-a-reactive-application-with-spring-boot-2-0-9e6ae64929d0" MODIFIED="1530000664367" TEXT="https://medium.com/@hantsy/build-a-reactive-application-with-spring-boot-2-0-9e6ae64929d0"/>
 </node>
 </node>
 </map>
